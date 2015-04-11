@@ -1,0 +1,41 @@
+
+tbd:
+   1. user login check and archive
+      a> validate
+      b> safe login and online state 
+      c> profile storage
+
+   2. news and event part
+      a> quick add/edit news and events
+      b> event update: function to be fixed
+      c> news agrregated autoly and edited
+
+   3 multimedia part
+     a> demo player: mp4/3gp/ogg/flv etc
+     b> file upload and download
+     c> performance evaluate
+     d> virus check
+
+   4 forum , email and contacts part
+     a> function to be fixed
+     b> friend/conection build
+     c> message/article storage issue
+
+   5 search part
+     a> function to be done simply
+     c> acute and fast...
+     b> results present issue
+
+   6 web CN translate
+     a> aim to all Chinese
+     b> how to do it autoly
+ 
+   7 admin part
+     a> github ??
+     b> email
+     
+   -----------
+note: 
+   1 naming each file likewise
+   2 file size not more than 50k each
+   3 ...
